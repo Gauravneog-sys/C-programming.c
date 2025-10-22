@@ -10,15 +10,10 @@ int main()    //main function starts
      }
      else if(num<0)
      {
-             printf("\n THE ENTERED VALUE IS NEGATIVE");
+      printf("\n THE ENTERED VALUE IS NEGATIVE");
      }
      else 
-        
-             printf("\n THE ENTERED VALUE IS 0(ZERO)");   
-
-
-      
-    
-
+      printf("\n THE ENTERED VALUE IS 0(ZERO)");   
      return 0;
+
 }
